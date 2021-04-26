@@ -21,6 +21,8 @@ The project is in a `draft` state.
 
 ## Other
 
+[Example](example.md)
+
 [Recommendations](recommendations.md)
 
 ## License
