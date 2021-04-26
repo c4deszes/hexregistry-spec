@@ -7,15 +7,13 @@ title: hexregistry specification
 
 The project is in a `draft` state.
 
-## Documentation
-
-### Packages
+## Packages
 
 [Specification](package/package-spec.md)
 
 [Traceability](package/package-traceability.md)
 
-[Verification](package/package-verification.md)
+[Validation](package/package-validation.md)
 
 ## Registry
 
@@ -27,4 +25,4 @@ The project is in a `draft` state.
 
 ## License
 
-Distributed under the terms of [MIT license](LICENSE)
+Distributed under the terms of [MIT license](https://opensource.org/licenses/MIT)

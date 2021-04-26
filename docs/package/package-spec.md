@@ -86,8 +86,8 @@ particular baseline that the artifact is based on
   + `traceability` is an object describing links between hex file regions and
   certain package attributes, see [package traceability](package-traceability.md)
 
-  + `verification` is an object describing links between hex file regions and
-  fixed memory locations, see [package verification](package-verification.md)
+  + `validation` is an object describing links between hex file regions and
+  fixed memory locations, see [package validation](package-validation.md)
 
 ### Dependencies
 
@@ -150,11 +150,11 @@ This is an example of a deployment using 2 packages.
     "dependencies": {
         "sample_program": {
             "version": "${version}",
-            "variant": "none"
+            "variant": "${variant}"
         },
         "sample_eeprom": {
             "version": "${version}",
-            "variant": "none"
+            "variant": "${variant}"
         }
     }
 }
