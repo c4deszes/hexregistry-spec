@@ -19,9 +19,13 @@ The project is in a `draft` state.
 
 [Specification](registry/registry-spec.md)
 
-## Other
+## Examples
 
-[Example](example.md)
+[Bootloader packaging](examples/bootloader-application.md)
+
+[Debug software](examples/debug-software.md)
+
+## Other
 
 [Recommendations](recommendations.md)
 

@@ -1,4 +1,4 @@
-# Example
+# Bootloader - Application Example
 
 This demonstrates a common problem being solved in multiple ways.
 
